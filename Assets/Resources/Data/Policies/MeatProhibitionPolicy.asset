@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5401eb890f5b0354d8044a08279a02c2, type: 3}
+  m_Name: MeatProhibitionPolicy
+  m_EditorClassIdentifier: 
+  money: 0
+  earningRate: 0
+  satisfaction: -19
+  requiredSatisfaction: 60
+  bribeCost: 6200
+  emissionsClean: 18
+  emissionsDirty: 0
+  icon: {fileID: 0}
+  name: Meat prohibition
+  description: Prohibit the breeding of cattle for the production of meat in order
+    to reduce methane emissions.
